@@ -19,8 +19,7 @@ Marco de trabajo iterativo basado en sprints y roles definidos como Scrum Master
 Metodología enfocada en mejorar la calidad del software a través de prácticas como desarrollo guiado por pruebas (TDD) y programación en parejas.
 
 ## 🛠️ Tecnologías Utilizadas
-- HTML, CSS y JavaScript
-- Frameworks/librerías adicionales (si aplica)
+- HTML, CSS
 
 ## 📦 Instalación y Uso
 1. Clona el repositorio:
