@@ -33,11 +33,5 @@ Metodología enfocada en mejorar la calidad del software a través de prácticas
    ```
 3. Abre el archivo `index.html` en tu navegador.
 
-## 📌 Contribuciones
-Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio y enviar un pull request con mejoras o nuevas metodologías.
-
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo LICENSE.
-
 ## 📩 Contacto
 Para cualquier consulta o sugerencia, puedes escribirme a juanpablosanchezvaldes@cdpjosecabrera.es
