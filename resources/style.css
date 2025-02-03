@@ -14,11 +14,18 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     color: var(--text-color);
     background-color: #f5f6fa;
+    background-image: url('background.jpg');
+    background-size: cover; /* La imagen cubre toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Hace que la imagen no se desplace con el scroll */
+    background-repeat: no-repeat;
 }
+
+
 
 /* Header Styles */
 header {
@@ -252,4 +259,5 @@ header {
 .disadvantage{
     color: rgb(223, 17, 45);
 }
+
 
