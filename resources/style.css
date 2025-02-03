@@ -123,6 +123,7 @@ header {
 .aside-left,
 .aside-right {
     width: 250px;
+    height: 275px;
     background-color: rgb(143, 140, 140);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
@@ -258,6 +259,11 @@ header {
 
 .disadvantage{
     color: rgb(223, 17, 45);
+}
+
+.resource-link{
+    font-weight: bold;
+    color: #000000;
 }
 
 
